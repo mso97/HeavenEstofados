@@ -1,0 +1,20 @@
+#presentation {
+    padding-top: 5rem;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.espec {
+    font-size: 1.4rem;
+}
+
+.find-us {
+    font-size: 1rem;
+    border: solid 0.1rem #000;
+    border-radius: 1rem;
+    padding: 0.2rem;
+}
+
+.find {
+    padding-top: 1rem;
+}
