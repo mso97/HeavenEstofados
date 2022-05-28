@@ -1,0 +1,70 @@
+#presentation, #nossos-servicos {
+    /* padding-bottom: 6rem; */
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+#presentation {
+    padding-bottom: 21rem;
+    padding-top: 12rem;
+    background-image: url(../img/background2.jpeg);
+    background-position: center top;
+    background-size: cover;
+    filter: opacity(80%);
+    width:100%;
+    text-align: center;
+}
+
+#nossos-servicos {
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    font-family: 'Raleway', sans-serif;
+}
+
+.title {
+    font-size: 1rem;
+}
+
+#card-servicos {
+    padding-top: 1rem;
+}
+
+#empresa {
+    padding-top: 2rem;
+}
+
+#motivo {
+    padding-top: 2rem;
+}
+
+.espec {
+    font-size: 1.4rem;
+}
+
+.borda {
+    font-size: 1.4rem;
+    border: solid 0.1rem #000;
+    font-weight: bold;
+    border-radius: 1rem;
+    padding: 0.2rem;
+    background-color: rgb(190, 241, 239);
+    filter: opacity(100%);
+    color: rgb(0,0,252);
+    font-family: 'Raleway', sans-serif;
+}
+
+.name {
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: rgb(0,0,252);
+    padding: 0.2rem;
+    filter: opacity(100%);
+}
+
+.find {
+    padding-top: 1rem;
+}
+
+.video {
+    text-align: center;
+}
