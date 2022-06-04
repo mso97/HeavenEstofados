@@ -61,10 +61,27 @@
     filter: opacity(100%);
 }
 
+.title {
+    color: rgb(0,0,252);
+}
+
 .find {
     padding-top: 1rem;
 }
 
 .video {
     text-align: center;
+}
+
+.info {
+    font-size: 10px;
+    text-align: center;
+}
+
+#carouselClientes h5{
+    color: #000;
+}
+
+#carouselClientes p{
+    color: #000;
 }
